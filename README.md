@@ -1,6 +1,6 @@
 # Spotify Track & Artist Analyzer
 
-![Screenshot of the App]("photo.png")
+![Screenshot of the App]("screenshot.png")
 A desktop application built with Python and PySimpleGUI that uses the Spotify API to search for artists and retrieve detailed information about their top tracks, including popularity, duration, and audio features.
 
 This project was developed as an exercise in API integration, GUI development, and handling concurrent operations to ensure a responsive user experience.
